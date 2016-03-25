@@ -21,7 +21,7 @@ description: ...
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "/"
+  Home: "https://patientoutcomefunding.github.io"
   The project: "project"
   The team: "team"
 
