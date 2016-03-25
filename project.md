@@ -1,13 +1,8 @@
 ---
 layout: page
-title: Project
-subtitle: It had to be done
+title: The project
+subtitle: A sustainable model to fund high-impact research and innovation in healthcare  
 ---
-
-
-
-## A sustainable model to fund high-impact research and innovation in healthcare  
-*by Raphael Chow - Sandra Giuliani - Valérie Hepp*  
 
 ### The problem  
 Patients, societies and governments demand medical technologies that successfully reduce the burden of disease. Companies’ investment decisions, however, are usually based on profitability and growth potential, which do not always translate into successful patient outcomes in areas of highest need for society.<sup>[1a, 1b](#ref1)</sup>  
