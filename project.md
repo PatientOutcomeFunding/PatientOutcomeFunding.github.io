@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The project
+title: Patient Outcome Funding
 subtitle: A sustainable model to fund high-impact research and innovation in healthcare  
 ---
 
