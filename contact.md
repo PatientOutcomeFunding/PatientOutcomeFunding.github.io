@@ -3,11 +3,12 @@ layout: page
 title: Contact us
 ---
 
+We are looking for mentors, collaborators and partners in our venture. We also welcome any feedback or comment on the material on the website.    
 
 <div id="contactme-section">
 
 <form action="https://formspree.io/patientoutcomefunding@gmail.com" method="POST" class="form" id="contact-form">
-  <p>Please use the form below:</p>
+  <p>Please contact us using the form below:</p>
   <div class="row">
     <div class="col-xs-6">
       <input type="email" name="_replyto" class="form-control input-lg" placeholder="Email" title="Email">
