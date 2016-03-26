@@ -19,7 +19,7 @@ title: Contact us
   <input type="hidden" name="_subject" value="New submission from patientoutcomefunding.org">
   <textarea type="text" name="content" class="form-control input-lg" placeholder="Message" title="Message" required="required" rows="3"></textarea>
   <input type="text" name="_gotcha" style="display:none">
-  <input type="hidden" name="_next" value="/thanks.md" />
+  <input type="hidden" name="_next" value="/thanks/" />
   <button type="submit" class="btn btn-lg btn-primary">Submit</button>
 </form>
 
