@@ -32,7 +32,7 @@ In addition, available investment money is not always channeled towards disease 
 Although the experience with Social Impact Bond type investments is still in early days, Venture Funds and independent analysis have shown returns on investments of 5% up to 20%.<sup>[3d](#ref3)</sup>    
 
 ### Proposed approach and implementation    
-To implement the POF model, we follow a three-step model, as shown in Figure 2. We will start with an existing, validated model and gradually expand the scope to involve countries that are suffering from a proportionally large burden of disease and have relatively large economic interest for public sector entities to engage in investments.  
+To implement the POF model, we follow a three-step approach, as shown in Figure 2. We will start with an existing, validated model and gradually expand the scope to involve countries that are suffering from a proportionally large burden of disease and have relatively large economic interest for public sector entities to engage in investments.  
 
 
 ![Patient Outcome Funding - implementation](/img/pof_steps.png)  
@@ -48,42 +48,41 @@ As a team, we want to start the POF by engaging investors, public sector entitie
   
 #### References  
 <a name="ref1"></a>
-<i>
-1a  
+**1a**  
 - Financing of U.S. Biomedical Research and New Drug Approvals across Therapeutic Areas, E. Ray Dorsey et al. (2009)  
 - [Cicero report, 2016](http://www.cicero-group.com/Research-Analysis/Pain_in_spain_report.pdf)  
 
-1b  
+**1b**  
 - Social Finance - A new way to invest in better healthcare (2011)    
 - McKinsey Social Impact Bonds Report: From Potential to Action: Bringing Social Impact Bonds to the US (2012)  
   
 <a name="ref2"></a>
-2a  
+**2a**  
 - [Social Finance - SIBs](http://www.socialfinance.org.uk/services/social-impact-bonds/)  
 
-2b  
+**2b**  
 - [Social Finance - case studies](http://www.socialfinance.org.uk/wp-content/uploads/2015/06/Case-Studies.pdf)    
   
-2c  
+**2c**  
 - [Social Finance - healthcare](http://www.socialfinance.org.il/social-impact-bonds/42/reducing-development-type-2-diabetes-in-high-risk-pre-diabetics)   
 - Stefanie Tan, Alec Fraser, Chris Giacomantonio, Kristy Kruithof, Megan Sim, Mylene Lagarde, Emma Disley, Jennifer Rubin, Nicholas Mays “An evaluation of Social Impact Bonds in Health and Social Care.”, Policy Innovation Research Unit (PIRU), Department of Health Services Research and Policy London School of Hygiene and Tropical Medicine, and RAND Europe (2015)  
    
-2d  
+**2d**  
 - POF team analysis, to request full detail please contact us    
   
 <a name="ref3"></a> 
-3a  
+**3a**  
 - [US Department of State, International Health and Biodefense](http://www.state.gov/e/oes/intlhealthbiodefense/id/)   
   
-3b  
+**3b**  
 - [WHO](http://www.who.int/trade/glossary/story051/en/)  
   
-3c  
+**3c**  
 - [Forbes](http://www.forbes.com/sites/scottgottlieb/2015/05/14/how-many-people-has-obamacare-really- insured/#a2a5f4777f08)  
 - [HealthAffairs](http://content.healthaffairs.org/content/early/2015/05/04/hlthaff.2015.0266.full)  
   
 <a name="ref4"></a> 
-4a  
+**4a**  
 - [UK Houses of Parliament](http://researchbriefings.files.parliament.uk/documents/POST-PN-416/POST-PN-416.pdf)  
 - [CDC](http://www.cdc.gov/tb/topic/drtb/default.htm)  
 - [US Government](https://www.whitehouse.gov/sites/default/files/microsites/ostp/national_action_plan_for_tuberculosis_20151204_final.pdf)  
@@ -91,12 +90,12 @@ As a team, we want to start the POF by engaging investors, public sector entitie
 - [Cicero](http://www.cicero-group.com/Research-Analysis/Pain_in_spain_report.pdf)  
 - [European Investment Fund](https://issuu.com/cfi.co/docs/spring2013/24)  
   
-4b  
+**4b**  
 - [VizHub/WHO](http://vizhub.healthdata.org/gbd-compare/)    
 - Population and income data: CIA Factbook 2015 (2015)  
 - UK Trade information: UK Trade Statistics Nov 2015 (2015)  
 - EU Trade information: European Commission, Directorate General for Trade (2015)  
   
-4c  
+**4c**  
 - [Cicero](http://www.cicero-group.com/Research-Analysis/Pain_in_spain_report.pdf)  
-<i/>  
+   
