@@ -19,10 +19,11 @@ i.	a public sector entity interested in obtaining improved patient outcomes
 ii.	private and institutional investors  
 iii.	companies with the potential of delivering impactful solutions in public health  
 
-![Patient Outcome Funding - model](/img/pof_model.png)  
-*Figure 1 (left) - Flow of money and the creation of social benefits from the Patient Outcome Funding Model; Figure 2 (right) - How the patient outcomes fund generates cost savings to a public body and a return on investment for social investors*  
-  
 As shown in Figure 1, investors provide upfront investment to the companies, which in turn will deliver interventions aimed at achieving positive patient outcomes. If the promised outcome is reached, the public sector entity will benefit from cost savings and will therefore be able to repay investor’s initial investment (Figure 2). The metrics of success and the timeframe will be agreed between investors and the public sector, according to the disease area. For instance, reduced number of hospitalisations will alleviate the burden on the public healthcare system, and the resulting savings will translate into the investors’ return on investment.  
+
+![Patient Outcome Funding - model](/img/pof_model.png)  
+*Figure 1 - Flow of money and the creation of social benefits from the Patient Outcome Funding Model*  
+   
 
 ### Business rationale  
 Governments, but also the society as a whole, have a direct economic interest in impactful patient outcomes. For example, the outbreak of SARS was estimated to result in a 2% GDP loss in Asian economies,<sup>[3a](#ref3)</sup> while in South Africa HIV/AIDS is expected to depress GDP by as much as 17% over the next decade.<sup>[3b](#ref3)</sup>    
@@ -31,11 +32,11 @@ In addition, available investment money is not always channeled towards disease 
 Although the experience with Social Impact Bond type investments is still in early days, Venture Funds and independent analysis have shown returns on investments of 5% up to 20%.<sup>[3d](#ref3)</sup>    
 
 ### Proposed approach and implementation    
-To implement the POF model, we follow a three-step model, as shown in Figure 3. We will start with an existing, validated model and gradually expand the scope to involve countries that are suffering from a proportionally large burden of disease and have relatively large economic interest for public sector entities to engage in investments.  
+To implement the POF model, we follow a three-step model, as shown in Figure 2. We will start with an existing, validated model and gradually expand the scope to involve countries that are suffering from a proportionally large burden of disease and have relatively large economic interest for public sector entities to engage in investments.  
 
 
 ![Patient Outcome Funding - implementation](/img/pof_steps.png)  
-*Figure 3 – Step-wise approach to the Patient Outcome Fund*  
+*Figure 2 – Step-wise approach to the Patient Outcome Fund*  
 
 
 In the first phase (Step 1, Local Proof of Concept), we will engage public health bodies in the UK by leveraging the existing framework of SIBs, as described previously. In this phase, we will focus on one specific disease – drug resistant tuberculosis (DR-TB). The cost of treating DR-TB in the UK is estimated at £50k-70k per patient.<sup>[4a](#ref4)</sup>  
