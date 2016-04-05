@@ -19,7 +19,7 @@ i.	a public sector entity interested in obtaining improved patient outcomes
 ii.	private and institutional investors  
 iii.	companies with the potential of delivering impactful solutions in public health  
 
-As shown in Figure 1, investors provide upfront investment to the companies, which in turn will deliver interventions aimed at achieving positive patient outcomes. If the promised outcome is reached, the public sector entity will benefit from cost savings and will therefore be able to repay investor’s initial investment (Figure 2). The metrics of success and the timeframe will be agreed between investors and the public sector, according to the disease area. For instance, reduced number of hospitalisations will alleviate the burden on the public healthcare system, and the resulting savings will translate into the investors’ return on investment.  
+As shown in Figure 1, investors provide upfront investment to the companies, which in turn will deliver interventions aimed at achieving positive patient outcomes. If the promised outcome is reached, the public sector entity will benefit from cost savings and will therefore be able to repay investor’s initial investment. The metrics of success and the timeframe will be agreed between investors and the public sector, according to the disease area. For instance, reduced number of hospitalisations will alleviate the burden on the public healthcare system, and the resulting savings will translate into the investors’ return on investment.  
 
 ![Patient Outcome Funding - model](/img/pof_model.png)  
 *Figure 1 - Flow of money and the creation of social benefits from the Patient Outcome Funding Model*  
