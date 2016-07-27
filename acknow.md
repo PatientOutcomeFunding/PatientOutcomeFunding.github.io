@@ -19,7 +19,7 @@ Sandra Giuliani also wishes to thank:
 - Jon-Paul Sherlock  
 - Nick Brown   
 - Pearl Skovlund   
-- Peter Doyle 
+- Peter Doyle  
 - Rick Thompson  
 - Rob Hernandez  
 - Spyros Diakakis  
